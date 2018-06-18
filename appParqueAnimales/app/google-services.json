@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "671449054954",
+    "firebase_url": "https://park-animals.firebaseio.com",
+    "project_id": "park-animals",
+    "storage_bucket": "park-animals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671449054954:android:8384c01b662dc8ae",
+        "android_client_info": {
+          "package_name": "es.upm.geo.appparqueanimales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671449054954-cvpf4b9v5ku3k6hh86q9athd88lpsgke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.geo.appparqueanimales",
+            "certificate_hash": "d12551520f4d6f62013038ff18892f55066a7f5d"
+          }
+        },
+        {
+          "client_id": "671449054954-ld1tsbqlf9roojng2qipg6bqp31qh7lk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "671449054954-ld1tsbqlf9roojng2qipg6bqp31qh7lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4eDotb1pL5fOD_cSoc7wzq3dcUq1m58I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671449054954-ld1tsbqlf9roojng2qipg6bqp31qh7lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

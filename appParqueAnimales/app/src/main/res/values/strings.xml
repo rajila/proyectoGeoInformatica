@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Park Animals</string>
+    <string name="btn_ver_parques">Ver Parques</string>
+    <string name="btn_localizar_parques">Localizar Parques</string>
+    <string name="btn_configuracion">Mi Ubicación</string>
+    <string name="msnHome">\"El perro es el único animal en la tierra que te ama más que a sí mismo\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMundoPerros.net</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale">El permiso de Localización es necesario para su funcionamiento.</string>
+    <string name="error_internet">Para el correcto funcionamiento se necesita acceso a Internet.</string>
+</resources>
